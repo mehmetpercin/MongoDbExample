@@ -1,1 +1,1 @@
-# MongoDbExample
+# Example project with MongoDB
